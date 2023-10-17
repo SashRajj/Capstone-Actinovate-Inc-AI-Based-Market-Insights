@@ -1,0 +1,1 @@
+This README file provides a description of the code for generating responses from ChatGPT using the OpenAI API. The code includes a function called find_response_date that takes a text input and returns a response from ChatGPT. Additionally, it demonstrates how to use this function to obtain responses to specific questions related to the "credit cards" industry in the year 2023.
